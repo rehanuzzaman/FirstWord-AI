@@ -1,0 +1,3342 @@
+[
+  {
+    "text": "open a restaurant",
+    "target": "scene:restaurant",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "please open a restaurant",
+    "target": "scene:restaurant",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "can we open a restaurant",
+    "target": "scene:restaurant",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "open a restaurant with my friend",
+    "target": "scene:restaurant",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "start a cafe",
+    "target": "scene:restaurant",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "please start a cafe",
+    "target": "scene:restaurant",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "can we start a cafe",
+    "target": "scene:restaurant",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "start a cafe with my friend",
+    "target": "scene:restaurant",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "serve meals to hungry guests",
+    "target": "scene:restaurant",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "please serve meals to hungry guests",
+    "target": "scene:restaurant",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "can we serve meals to hungry guests",
+    "target": "scene:restaurant",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "serve meals to hungry guests with my friend",
+    "target": "scene:restaurant",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "a place for eating food",
+    "target": "scene:restaurant",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "please a place for eating food",
+    "target": "scene:restaurant",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "can we a place for eating food",
+    "target": "scene:restaurant",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "a place for eating food with my friend",
+    "target": "scene:restaurant",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "cook dinner for customers",
+    "target": "scene:restaurant",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "please cook dinner for customers",
+    "target": "scene:restaurant",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "can we cook dinner for customers",
+    "target": "scene:restaurant",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "cook dinner for customers with my friend",
+    "target": "scene:restaurant",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "let us sell lunch",
+    "target": "scene:restaurant",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "please let us sell lunch",
+    "target": "scene:restaurant",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "can we let us sell lunch",
+    "target": "scene:restaurant",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "let us sell lunch with my friend",
+    "target": "scene:restaurant",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "make a diner",
+    "target": "scene:restaurant",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "please make a diner",
+    "target": "scene:restaurant",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "can we make a diner",
+    "target": "scene:restaurant",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "make a diner with my friend",
+    "target": "scene:restaurant",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "set up a food stall",
+    "target": "scene:restaurant",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "please set up a food stall",
+    "target": "scene:restaurant",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "can we set up a food stall",
+    "target": "scene:restaurant",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "set up a food stall with my friend",
+    "target": "scene:restaurant",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "রেস্তোরাঁ খুলি",
+    "target": "scene:restaurant",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "চলো রেস্তোরাঁ খুলি",
+    "target": "scene:restaurant",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "আমরা রেস্তোরাঁ খুলি",
+    "target": "scene:restaurant",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "রেস্তোরাঁ খুলি বন্ধু",
+    "target": "scene:restaurant",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "খাবারের দোকান বানাই",
+    "target": "scene:restaurant",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "চলো খাবারের দোকান বানাই",
+    "target": "scene:restaurant",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "আমরা খাবারের দোকান বানাই",
+    "target": "scene:restaurant",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "খাবারের দোকান বানাই বন্ধু",
+    "target": "scene:restaurant",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "অতিথিদের খাবার দেব",
+    "target": "scene:restaurant",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "চলো অতিথিদের খাবার দেব",
+    "target": "scene:restaurant",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "আমরা অতিথিদের খাবার দেব",
+    "target": "scene:restaurant",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "অতিথিদের খাবার দেব বন্ধু",
+    "target": "scene:restaurant",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "রান্না করে সবাইকে খাওয়াব",
+    "target": "scene:restaurant",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "চলো রান্না করে সবাইকে খাওয়াব",
+    "target": "scene:restaurant",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "আমরা রান্না করে সবাইকে খাওয়াব",
+    "target": "scene:restaurant",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "রান্না করে সবাইকে খাওয়াব বন্ধু",
+    "target": "scene:restaurant",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "দুপুরের খাবার বিক্রি করি",
+    "target": "scene:restaurant",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "চলো দুপুরের খাবার বিক্রি করি",
+    "target": "scene:restaurant",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "আমরা দুপুরের খাবার বিক্রি করি",
+    "target": "scene:restaurant",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "দুপুরের খাবার বিক্রি করি বন্ধু",
+    "target": "scene:restaurant",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "খাবার খাওয়ার জায়গা বানাই",
+    "target": "scene:restaurant",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "চলো খাবার খাওয়ার জায়গা বানাই",
+    "target": "scene:restaurant",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "আমরা খাবার খাওয়ার জায়গা বানাই",
+    "target": "scene:restaurant",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "খাবার খাওয়ার জায়গা বানাই বন্ধু",
+    "target": "scene:restaurant",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "open a shop",
+    "target": "scene:shop",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "please open a shop",
+    "target": "scene:shop",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "can we open a shop",
+    "target": "scene:shop",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "open a shop with my friend",
+    "target": "scene:shop",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "make a market",
+    "target": "scene:shop",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "please make a market",
+    "target": "scene:shop",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "can we make a market",
+    "target": "scene:shop",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "make a market with my friend",
+    "target": "scene:shop",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "sell things to people",
+    "target": "scene:shop",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "please sell things to people",
+    "target": "scene:shop",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "can we sell things to people",
+    "target": "scene:shop",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "sell things to people with my friend",
+    "target": "scene:shop",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "start a store",
+    "target": "scene:shop",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "please start a store",
+    "target": "scene:shop",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "can we start a store",
+    "target": "scene:shop",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "start a store with my friend",
+    "target": "scene:shop",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "set up our stall",
+    "target": "scene:shop",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "please set up our stall",
+    "target": "scene:shop",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "can we set up our stall",
+    "target": "scene:shop",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "set up our stall with my friend",
+    "target": "scene:shop",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "a place to buy things",
+    "target": "scene:shop",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "please a place to buy things",
+    "target": "scene:shop",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "can we a place to buy things",
+    "target": "scene:shop",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "a place to buy things with my friend",
+    "target": "scene:shop",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "বাজারে যাই",
+    "target": "scene:shop",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "চলো বাজারে যাই",
+    "target": "scene:shop",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "আমরা বাজারে যাই",
+    "target": "scene:shop",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "বাজারে যাই বন্ধু",
+    "target": "scene:shop",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "জিনিস বিক্রি করি",
+    "target": "scene:shop",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "চলো জিনিস বিক্রি করি",
+    "target": "scene:shop",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "আমরা জিনিস বিক্রি করি",
+    "target": "scene:shop",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "জিনিস বিক্রি করি বন্ধু",
+    "target": "scene:shop",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "দোকান খুলি",
+    "target": "scene:shop",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "চলো দোকান খুলি",
+    "target": "scene:shop",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "আমরা দোকান খুলি",
+    "target": "scene:shop",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "দোকান খুলি বন্ধু",
+    "target": "scene:shop",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "কেনাকাটা করতে যাব",
+    "target": "scene:shop",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "চলো কেনাকাটা করতে যাব",
+    "target": "scene:shop",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "আমরা কেনাকাটা করতে যাব",
+    "target": "scene:shop",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "কেনাকাটা করতে যাব বন্ধু",
+    "target": "scene:shop",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "সবাই আমার কাছ থেকে কিনবে",
+    "target": "scene:shop",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "চলো সবাই আমার কাছ থেকে কিনবে",
+    "target": "scene:shop",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "আমরা সবাই আমার কাছ থেকে কিনবে",
+    "target": "scene:shop",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "সবাই আমার কাছ থেকে কিনবে বন্ধু",
+    "target": "scene:shop",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "একটি দোকান বানাই",
+    "target": "scene:shop",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "চলো একটি দোকান বানাই",
+    "target": "scene:shop",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "আমরা একটি দোকান বানাই",
+    "target": "scene:shop",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "একটি দোকান বানাই বন্ধু",
+    "target": "scene:shop",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "build a castle",
+    "target": "scene:castle",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "please build a castle",
+    "target": "scene:castle",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "can we build a castle",
+    "target": "scene:castle",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "build a castle with my friend",
+    "target": "scene:castle",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "make a kingdom",
+    "target": "scene:castle",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "please make a kingdom",
+    "target": "scene:castle",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "can we make a kingdom",
+    "target": "scene:castle",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "make a kingdom with my friend",
+    "target": "scene:castle",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "create a palace",
+    "target": "scene:castle",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "please create a palace",
+    "target": "scene:castle",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "can we create a palace",
+    "target": "scene:castle",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "create a palace with my friend",
+    "target": "scene:castle",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "a royal home",
+    "target": "scene:castle",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "please a royal home",
+    "target": "scene:castle",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "can we a royal home",
+    "target": "scene:castle",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "a royal home with my friend",
+    "target": "scene:castle",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "somewhere for a king to live",
+    "target": "scene:castle",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "please somewhere for a king to live",
+    "target": "scene:castle",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "can we somewhere for a king to live",
+    "target": "scene:castle",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "somewhere for a king to live with my friend",
+    "target": "scene:castle",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "a fortress with towers",
+    "target": "scene:castle",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "please a fortress with towers",
+    "target": "scene:castle",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "can we a fortress with towers",
+    "target": "scene:castle",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "a fortress with towers with my friend",
+    "target": "scene:castle",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "প্রাসাদ বানাই",
+    "target": "scene:castle",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "চলো প্রাসাদ বানাই",
+    "target": "scene:castle",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "আমরা প্রাসাদ বানাই",
+    "target": "scene:castle",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "প্রাসাদ বানাই বন্ধু",
+    "target": "scene:castle",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "রাজার বাড়ি তৈরি করি",
+    "target": "scene:castle",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "চলো রাজার বাড়ি তৈরি করি",
+    "target": "scene:castle",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "আমরা রাজার বাড়ি তৈরি করি",
+    "target": "scene:castle",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "রাজার বাড়ি তৈরি করি বন্ধু",
+    "target": "scene:castle",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "আমাদের রাজ্য বানাও",
+    "target": "scene:castle",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "চলো আমাদের রাজ্য বানাও",
+    "target": "scene:castle",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "আমরা আমাদের রাজ্য বানাও",
+    "target": "scene:castle",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "আমাদের রাজ্য বানাও বন্ধু",
+    "target": "scene:castle",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "দুর্গে যাব",
+    "target": "scene:castle",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "চলো দুর্গে যাব",
+    "target": "scene:castle",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "আমরা দুর্গে যাব",
+    "target": "scene:castle",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "দুর্গে যাব বন্ধু",
+    "target": "scene:castle",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "রানির জন্য বাড়ি",
+    "target": "scene:castle",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "চলো রানির জন্য বাড়ি",
+    "target": "scene:castle",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "আমরা রানির জন্য বাড়ি",
+    "target": "scene:castle",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "রানির জন্য বাড়ি বন্ধু",
+    "target": "scene:castle",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "অনেক মিনারওয়ালা বাড়ি",
+    "target": "scene:castle",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "চলো অনেক মিনারওয়ালা বাড়ি",
+    "target": "scene:castle",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "আমরা অনেক মিনারওয়ালা বাড়ি",
+    "target": "scene:castle",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "অনেক মিনারওয়ালা বাড়ি বন্ধু",
+    "target": "scene:castle",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "go to the moon",
+    "target": "scene:moon",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "please go to the moon",
+    "target": "scene:moon",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "can we go to the moon",
+    "target": "scene:moon",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "go to the moon with my friend",
+    "target": "scene:moon",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "fly to outer space",
+    "target": "scene:moon",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "please fly to outer space",
+    "target": "scene:moon",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "can we fly to outer space",
+    "target": "scene:moon",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "fly to outer space with my friend",
+    "target": "scene:moon",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "visit another planet",
+    "target": "scene:moon",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "please visit another planet",
+    "target": "scene:moon",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "can we visit another planet",
+    "target": "scene:moon",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "visit another planet with my friend",
+    "target": "scene:moon",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "travel among the stars",
+    "target": "scene:moon",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "please travel among the stars",
+    "target": "scene:moon",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "can we travel among the stars",
+    "target": "scene:moon",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "travel among the stars with my friend",
+    "target": "scene:moon",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "a lunar adventure",
+    "target": "scene:moon",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "please a lunar adventure",
+    "target": "scene:moon",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "can we a lunar adventure",
+    "target": "scene:moon",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "a lunar adventure with my friend",
+    "target": "scene:moon",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "be an astronaut in space",
+    "target": "scene:moon",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "please be an astronaut in space",
+    "target": "scene:moon",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "can we be an astronaut in space",
+    "target": "scene:moon",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "be an astronaut in space with my friend",
+    "target": "scene:moon",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "চাঁদে যাব",
+    "target": "scene:moon",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "চলো চাঁদে যাব",
+    "target": "scene:moon",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "আমরা চাঁদে যাব",
+    "target": "scene:moon",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "চাঁদে যাব বন্ধু",
+    "target": "scene:moon",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "মহাকাশে উড়ে যাই",
+    "target": "scene:moon",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "চলো মহাকাশে উড়ে যাই",
+    "target": "scene:moon",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "আমরা মহাকাশে উড়ে যাই",
+    "target": "scene:moon",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "মহাকাশে উড়ে যাই বন্ধু",
+    "target": "scene:moon",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "গ্রহে বেড়াতে যাব",
+    "target": "scene:moon",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "চলো গ্রহে বেড়াতে যাব",
+    "target": "scene:moon",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "আমরা গ্রহে বেড়াতে যাব",
+    "target": "scene:moon",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "গ্রহে বেড়াতে যাব বন্ধু",
+    "target": "scene:moon",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "তারার দেশে যাব",
+    "target": "scene:moon",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "চলো তারার দেশে যাব",
+    "target": "scene:moon",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "আমরা তারার দেশে যাব",
+    "target": "scene:moon",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "তারার দেশে যাব বন্ধু",
+    "target": "scene:moon",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "চন্দ্র অভিযান করি",
+    "target": "scene:moon",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "চলো চন্দ্র অভিযান করি",
+    "target": "scene:moon",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "আমরা চন্দ্র অভিযান করি",
+    "target": "scene:moon",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "চন্দ্র অভিযান করি বন্ধু",
+    "target": "scene:moon",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "নভোচারী হব",
+    "target": "scene:moon",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "চলো নভোচারী হব",
+    "target": "scene:moon",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "আমরা নভোচারী হব",
+    "target": "scene:moon",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "নভোচারী হব বন্ধু",
+    "target": "scene:moon",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "help my pet",
+    "target": "scene:help",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "please help my pet",
+    "target": "scene:help",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "can we help my pet",
+    "target": "scene:help",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "help my pet with my friend",
+    "target": "scene:help",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "Mithu needs help",
+    "target": "scene:help",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "please Mithu needs help",
+    "target": "scene:help",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "can we Mithu needs help",
+    "target": "scene:help",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "Mithu needs help with my friend",
+    "target": "scene:help",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "get across the river",
+    "target": "scene:help",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "please get across the river",
+    "target": "scene:help",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "can we get across the river",
+    "target": "scene:help",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "get across the river with my friend",
+    "target": "scene:help",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "find a way to the other side",
+    "target": "scene:help",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "please find a way to the other side",
+    "target": "scene:help",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "can we find a way to the other side",
+    "target": "scene:help",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "find a way to the other side with my friend",
+    "target": "scene:help",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "help our friend reach the flowers",
+    "target": "scene:help",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "please help our friend reach the flowers",
+    "target": "scene:help",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "can we help our friend reach the flowers",
+    "target": "scene:help",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "help our friend reach the flowers with my friend",
+    "target": "scene:help",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "solve our river problem",
+    "target": "scene:help",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "please solve our river problem",
+    "target": "scene:help",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "can we solve our river problem",
+    "target": "scene:help",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "solve our river problem with my friend",
+    "target": "scene:help",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "মিঠুকে সাহায্য করি",
+    "target": "scene:help",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "চলো মিঠুকে সাহায্য করি",
+    "target": "scene:help",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "আমরা মিঠুকে সাহায্য করি",
+    "target": "scene:help",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "মিঠুকে সাহায্য করি বন্ধু",
+    "target": "scene:help",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "নদী পার হতে হবে",
+    "target": "scene:help",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "চলো নদী পার হতে হবে",
+    "target": "scene:help",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "আমরা নদী পার হতে হবে",
+    "target": "scene:help",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "নদী পার হতে হবে বন্ধু",
+    "target": "scene:help",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "ওপারে যাওয়ার উপায়",
+    "target": "scene:help",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "চলো ওপারে যাওয়ার উপায়",
+    "target": "scene:help",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "আমরা ওপারে যাওয়ার উপায়",
+    "target": "scene:help",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "ওপারে যাওয়ার উপায় বন্ধু",
+    "target": "scene:help",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "বন্ধুকে পার করে দিই",
+    "target": "scene:help",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "চলো বন্ধুকে পার করে দিই",
+    "target": "scene:help",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "আমরা বন্ধুকে পার করে দিই",
+    "target": "scene:help",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "বন্ধুকে পার করে দিই বন্ধু",
+    "target": "scene:help",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "ফুলবাগানে যেতে সাহায্য",
+    "target": "scene:help",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "চলো ফুলবাগানে যেতে সাহায্য",
+    "target": "scene:help",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "আমরা ফুলবাগানে যেতে সাহায্য",
+    "target": "scene:help",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "ফুলবাগানে যেতে সাহায্য বন্ধু",
+    "target": "scene:help",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "সাহায্যের খেলা খেলি",
+    "target": "scene:help",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "চলো সাহায্যের খেলা খেলি",
+    "target": "scene:help",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "আমরা সাহায্যের খেলা খেলি",
+    "target": "scene:help",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "সাহায্যের খেলা খেলি বন্ধু",
+    "target": "scene:help",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "put on a show",
+    "target": "scene:stage",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "please put on a show",
+    "target": "scene:stage",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "can we put on a show",
+    "target": "scene:stage",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "put on a show with my friend",
+    "target": "scene:stage",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "make a stage",
+    "target": "scene:stage",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "please make a stage",
+    "target": "scene:stage",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "can we make a stage",
+    "target": "scene:stage",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "make a stage with my friend",
+    "target": "scene:stage",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "perform for friends",
+    "target": "scene:stage",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "please perform for friends",
+    "target": "scene:stage",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "can we perform for friends",
+    "target": "scene:stage",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "perform for friends with my friend",
+    "target": "scene:stage",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "tell a story to the audience",
+    "target": "scene:stage",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "please tell a story to the audience",
+    "target": "scene:stage",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "can we tell a story to the audience",
+    "target": "scene:stage",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "tell a story to the audience with my friend",
+    "target": "scene:stage",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "act in a play",
+    "target": "scene:stage",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "please act in a play",
+    "target": "scene:stage",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "can we act in a play",
+    "target": "scene:stage",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "act in a play with my friend",
+    "target": "scene:stage",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "start a performance",
+    "target": "scene:stage",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "please start a performance",
+    "target": "scene:stage",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "can we start a performance",
+    "target": "scene:stage",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "start a performance with my friend",
+    "target": "scene:stage",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "মঞ্চে যাব",
+    "target": "scene:stage",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "চলো মঞ্চে যাব",
+    "target": "scene:stage",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "আমরা মঞ্চে যাব",
+    "target": "scene:stage",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "মঞ্চে যাব বন্ধু",
+    "target": "scene:stage",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "গল্প শোনাব সবাইকে",
+    "target": "scene:stage",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "চলো গল্প শোনাব সবাইকে",
+    "target": "scene:stage",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "আমরা গল্প শোনাব সবাইকে",
+    "target": "scene:stage",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "গল্প শোনাব সবাইকে বন্ধু",
+    "target": "scene:stage",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "অভিনয় করব",
+    "target": "scene:stage",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "চলো অভিনয় করব",
+    "target": "scene:stage",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "আমরা অভিনয় করব",
+    "target": "scene:stage",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "অভিনয় করব বন্ধু",
+    "target": "scene:stage",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "নাটক বানাই",
+    "target": "scene:stage",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "চলো নাটক বানাই",
+    "target": "scene:stage",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "আমরা নাটক বানাই",
+    "target": "scene:stage",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "নাটক বানাই বন্ধু",
+    "target": "scene:stage",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "বন্ধুদের জন্য অনুষ্ঠান",
+    "target": "scene:stage",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "চলো বন্ধুদের জন্য অনুষ্ঠান",
+    "target": "scene:stage",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "আমরা বন্ধুদের জন্য অনুষ্ঠান",
+    "target": "scene:stage",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "বন্ধুদের জন্য অনুষ্ঠান বন্ধু",
+    "target": "scene:stage",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "গল্প বলার মঞ্চ",
+    "target": "scene:stage",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "চলো গল্প বলার মঞ্চ",
+    "target": "scene:stage",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "আমরা গল্প বলার মঞ্চ",
+    "target": "scene:stage",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "গল্প বলার মঞ্চ বন্ধু",
+    "target": "scene:stage",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "I will be the seller",
+    "target": "role:shopkeeper",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "please I will be the seller",
+    "target": "role:shopkeeper",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "can we I will be the seller",
+    "target": "role:shopkeeper",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "I will be the seller with my friend",
+    "target": "role:shopkeeper",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "let me serve the customers",
+    "target": "role:shopkeeper",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "please let me serve the customers",
+    "target": "role:shopkeeper",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "can we let me serve the customers",
+    "target": "role:shopkeeper",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "let me serve the customers with my friend",
+    "target": "role:shopkeeper",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "I want to be the shopkeeper",
+    "target": "role:shopkeeper",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "please I want to be the shopkeeper",
+    "target": "role:shopkeeper",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "can we I want to be the shopkeeper",
+    "target": "role:shopkeeper",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "I want to be the shopkeeper with my friend",
+    "target": "role:shopkeeper",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "my turn to sell",
+    "target": "role:shopkeeper",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "please my turn to sell",
+    "target": "role:shopkeeper",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "can we my turn to sell",
+    "target": "role:shopkeeper",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "my turn to sell with my friend",
+    "target": "role:shopkeeper",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "I will run the store",
+    "target": "role:shopkeeper",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "please I will run the store",
+    "target": "role:shopkeeper",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "can we I will run the store",
+    "target": "role:shopkeeper",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "I will run the store with my friend",
+    "target": "role:shopkeeper",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "আমি বিক্রি করব",
+    "target": "role:shopkeeper",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "চলো আমি বিক্রি করব",
+    "target": "role:shopkeeper",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "আমরা আমি বিক্রি করব",
+    "target": "role:shopkeeper",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "আমি বিক্রি করব বন্ধু",
+    "target": "role:shopkeeper",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "আমি দোকানদার হব",
+    "target": "role:shopkeeper",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "চলো আমি দোকানদার হব",
+    "target": "role:shopkeeper",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "আমরা আমি দোকানদার হব",
+    "target": "role:shopkeeper",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "আমি দোকানদার হব বন্ধু",
+    "target": "role:shopkeeper",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "আমি ক্রেতাদের জিনিস দেব",
+    "target": "role:shopkeeper",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "চলো আমি ক্রেতাদের জিনিস দেব",
+    "target": "role:shopkeeper",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "আমরা আমি ক্রেতাদের জিনিস দেব",
+    "target": "role:shopkeeper",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "আমি ক্রেতাদের জিনিস দেব বন্ধু",
+    "target": "role:shopkeeper",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "দোকান আমি চালাব",
+    "target": "role:shopkeeper",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "চলো দোকান আমি চালাব",
+    "target": "role:shopkeeper",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "আমরা দোকান আমি চালাব",
+    "target": "role:shopkeeper",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "দোকান আমি চালাব বন্ধু",
+    "target": "role:shopkeeper",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "এবার আমার বিক্রির পালা",
+    "target": "role:shopkeeper",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "চলো এবার আমার বিক্রির পালা",
+    "target": "role:shopkeeper",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "আমরা এবার আমার বিক্রির পালা",
+    "target": "role:shopkeeper",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "এবার আমার বিক্রির পালা বন্ধু",
+    "target": "role:shopkeeper",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "I will be a customer",
+    "target": "role:customer",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "please I will be a customer",
+    "target": "role:customer",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "can we I will be a customer",
+    "target": "role:customer",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "I will be a customer with my friend",
+    "target": "role:customer",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "let me buy things",
+    "target": "role:customer",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "please let me buy things",
+    "target": "role:customer",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "can we let me buy things",
+    "target": "role:customer",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "let me buy things with my friend",
+    "target": "role:customer",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "my turn to order",
+    "target": "role:customer",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "please my turn to order",
+    "target": "role:customer",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "can we my turn to order",
+    "target": "role:customer",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "my turn to order with my friend",
+    "target": "role:customer",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "I am the buyer",
+    "target": "role:customer",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "please I am the buyer",
+    "target": "role:customer",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "can we I am the buyer",
+    "target": "role:customer",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "I am the buyer with my friend",
+    "target": "role:customer",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "আমি কিনব",
+    "target": "role:customer",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "চলো আমি কিনব",
+    "target": "role:customer",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "আমরা আমি কিনব",
+    "target": "role:customer",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "আমি কিনব বন্ধু",
+    "target": "role:customer",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "আমি ক্রেতা হব",
+    "target": "role:customer",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "চলো আমি ক্রেতা হব",
+    "target": "role:customer",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "আমরা আমি ক্রেতা হব",
+    "target": "role:customer",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "আমি ক্রেতা হব বন্ধু",
+    "target": "role:customer",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "আমি অর্ডার দেব",
+    "target": "role:customer",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "চলো আমি অর্ডার দেব",
+    "target": "role:customer",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "আমরা আমি অর্ডার দেব",
+    "target": "role:customer",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "আমি অর্ডার দেব বন্ধু",
+    "target": "role:customer",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "এবার আমি খাবার কিনি",
+    "target": "role:customer",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "চলো এবার আমি খাবার কিনি",
+    "target": "role:customer",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "আমরা এবার আমি খাবার কিনি",
+    "target": "role:customer",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "এবার আমি খাবার কিনি বন্ধু",
+    "target": "role:customer",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "I want to be the king",
+    "target": "role:king",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "please I want to be the king",
+    "target": "role:king",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "can we I want to be the king",
+    "target": "role:king",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "I want to be the king with my friend",
+    "target": "role:king",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "make me the ruler",
+    "target": "role:king",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "please make me the ruler",
+    "target": "role:king",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "can we make me the ruler",
+    "target": "role:king",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "make me the ruler with my friend",
+    "target": "role:king",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "I am the king now",
+    "target": "role:king",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "please I am the king now",
+    "target": "role:king",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "can we I am the king now",
+    "target": "role:king",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "I am the king now with my friend",
+    "target": "role:king",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "give me the royal crown",
+    "target": "role:king",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "please give me the royal crown",
+    "target": "role:king",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "can we give me the royal crown",
+    "target": "role:king",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "give me the royal crown with my friend",
+    "target": "role:king",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "আমি রাজা হব",
+    "target": "role:king",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "চলো আমি রাজা হব",
+    "target": "role:king",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "আমরা আমি রাজা হব",
+    "target": "role:king",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "আমি রাজা হব বন্ধু",
+    "target": "role:king",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "আমি শাসক হব",
+    "target": "role:king",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "চলো আমি শাসক হব",
+    "target": "role:king",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "আমরা আমি শাসক হব",
+    "target": "role:king",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "আমি শাসক হব বন্ধু",
+    "target": "role:king",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "আমাকে মুকুট দাও",
+    "target": "role:king",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "চলো আমাকে মুকুট দাও",
+    "target": "role:king",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "আমরা আমাকে মুকুট দাও",
+    "target": "role:king",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "আমাকে মুকুট দাও বন্ধু",
+    "target": "role:king",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "এই রাজ্যের রাজা আমি",
+    "target": "role:king",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "চলো এই রাজ্যের রাজা আমি",
+    "target": "role:king",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "আমরা এই রাজ্যের রাজা আমি",
+    "target": "role:king",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "এই রাজ্যের রাজা আমি বন্ধু",
+    "target": "role:king",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "build a bridge",
+    "target": "object:bridge",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "please build a bridge",
+    "target": "object:bridge",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "can we build a bridge",
+    "target": "object:bridge",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "build a bridge with my friend",
+    "target": "object:bridge",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "a crossing over the water",
+    "target": "object:bridge",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "please a crossing over the water",
+    "target": "object:bridge",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "can we a crossing over the water",
+    "target": "object:bridge",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "a crossing over the water with my friend",
+    "target": "object:bridge",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "join the river banks",
+    "target": "object:bridge",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "please join the river banks",
+    "target": "object:bridge",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "can we join the river banks",
+    "target": "object:bridge",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "join the river banks with my friend",
+    "target": "object:bridge",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "put planks across the river",
+    "target": "object:bridge",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "please put planks across the river",
+    "target": "object:bridge",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "can we put planks across the river",
+    "target": "object:bridge",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "put planks across the river with my friend",
+    "target": "object:bridge",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "make a wooden crossing",
+    "target": "object:bridge",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "please make a wooden crossing",
+    "target": "object:bridge",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "can we make a wooden crossing",
+    "target": "object:bridge",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "make a wooden crossing with my friend",
+    "target": "object:bridge",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "সেতু বানাই",
+    "target": "object:bridge",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "চলো সেতু বানাই",
+    "target": "object:bridge",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "আমরা সেতু বানাই",
+    "target": "object:bridge",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "সেতু বানাই বন্ধু",
+    "target": "object:bridge",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "নদীর উপর কাঠ বসাও",
+    "target": "object:bridge",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "চলো নদীর উপর কাঠ বসাও",
+    "target": "object:bridge",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "আমরা নদীর উপর কাঠ বসাও",
+    "target": "object:bridge",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "নদীর উপর কাঠ বসাও বন্ধু",
+    "target": "object:bridge",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "একটি ব্রিজ তৈরি",
+    "target": "object:bridge",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "চলো একটি ব্রিজ তৈরি",
+    "target": "object:bridge",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "আমরা একটি ব্রিজ তৈরি",
+    "target": "object:bridge",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "একটি ব্রিজ তৈরি বন্ধু",
+    "target": "object:bridge",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "দুই পাড় জুড়ে দাও",
+    "target": "object:bridge",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "চলো দুই পাড় জুড়ে দাও",
+    "target": "object:bridge",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "আমরা দুই পাড় জুড়ে দাও",
+    "target": "object:bridge",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "দুই পাড় জুড়ে দাও বন্ধু",
+    "target": "object:bridge",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "কাঠ দিয়ে পার হওয়ার পথ",
+    "target": "object:bridge",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "চলো কাঠ দিয়ে পার হওয়ার পথ",
+    "target": "object:bridge",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "আমরা কাঠ দিয়ে পার হওয়ার পথ",
+    "target": "object:bridge",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "কাঠ দিয়ে পার হওয়ার পথ বন্ধু",
+    "target": "object:bridge",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "bring a boat",
+    "target": "object:boat",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "please bring a boat",
+    "target": "object:boat",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "can we bring a boat",
+    "target": "object:boat",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "bring a boat with my friend",
+    "target": "object:boat",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "sail across the river",
+    "target": "object:boat",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "please sail across the river",
+    "target": "object:boat",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "can we sail across the river",
+    "target": "object:boat",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "sail across the river with my friend",
+    "target": "object:boat",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "row to the other side",
+    "target": "object:boat",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "please row to the other side",
+    "target": "object:boat",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "can we row to the other side",
+    "target": "object:boat",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "row to the other side with my friend",
+    "target": "object:boat",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "use a little canoe",
+    "target": "object:boat",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "please use a little canoe",
+    "target": "object:boat",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "can we use a little canoe",
+    "target": "object:boat",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "use a little canoe with my friend",
+    "target": "object:boat",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "নৌকা নিয়ে আসো",
+    "target": "object:boat",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "চলো নৌকা নিয়ে আসো",
+    "target": "object:boat",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "আমরা নৌকা নিয়ে আসো",
+    "target": "object:boat",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "নৌকা নিয়ে আসো বন্ধু",
+    "target": "object:boat",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "নৌকায় পার হই",
+    "target": "object:boat",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "চলো নৌকায় পার হই",
+    "target": "object:boat",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "আমরা নৌকায় পার হই",
+    "target": "object:boat",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "নৌকায় পার হই বন্ধু",
+    "target": "object:boat",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "বৈঠা বেয়ে যাব",
+    "target": "object:boat",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "চলো বৈঠা বেয়ে যাব",
+    "target": "object:boat",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "আমরা বৈঠা বেয়ে যাব",
+    "target": "object:boat",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "বৈঠা বেয়ে যাব বন্ধু",
+    "target": "object:boat",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "ছোট ডিঙি বানাও",
+    "target": "object:boat",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "চলো ছোট ডিঙি বানাও",
+    "target": "object:boat",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "আমরা ছোট ডিঙি বানাও",
+    "target": "object:boat",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "ছোট ডিঙি বানাও বন্ধু",
+    "target": "object:boat",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "bring a friendly dragon",
+    "target": "character:dragon",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "please bring a friendly dragon",
+    "target": "character:dragon",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "can we bring a friendly dragon",
+    "target": "character:dragon",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "bring a friendly dragon with my friend",
+    "target": "character:dragon",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "a dragon friend joins us",
+    "target": "character:dragon",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "please a dragon friend joins us",
+    "target": "character:dragon",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "can we a dragon friend joins us",
+    "target": "character:dragon",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "a dragon friend joins us with my friend",
+    "target": "character:dragon",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "add a dragon to the story",
+    "target": "character:dragon",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "please add a dragon to the story",
+    "target": "character:dragon",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "can we add a dragon to the story",
+    "target": "character:dragon",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "add a dragon to the story with my friend",
+    "target": "character:dragon",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "we need a gentle dragon",
+    "target": "character:dragon",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "please we need a gentle dragon",
+    "target": "character:dragon",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "can we we need a gentle dragon",
+    "target": "character:dragon",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "we need a gentle dragon with my friend",
+    "target": "character:dragon",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "একটা ড্রাগন আনো",
+    "target": "character:dragon",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "চলো একটা ড্রাগন আনো",
+    "target": "character:dragon",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "আমরা একটা ড্রাগন আনো",
+    "target": "character:dragon",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "একটা ড্রাগন আনো বন্ধু",
+    "target": "character:dragon",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "বন্ধু ড্রাগন আসুক",
+    "target": "character:dragon",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "চলো বন্ধু ড্রাগন আসুক",
+    "target": "character:dragon",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "আমরা বন্ধু ড্রাগন আসুক",
+    "target": "character:dragon",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "বন্ধু ড্রাগন আসুক বন্ধু",
+    "target": "character:dragon",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "গল্পে ড্রাগন চাই",
+    "target": "character:dragon",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "চলো গল্পে ড্রাগন চাই",
+    "target": "character:dragon",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "আমরা গল্পে ড্রাগন চাই",
+    "target": "character:dragon",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "গল্পে ড্রাগন চাই বন্ধু",
+    "target": "character:dragon",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "মজার ড্রাগন বানাও",
+    "target": "character:dragon",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "চলো মজার ড্রাগন বানাও",
+    "target": "character:dragon",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "আমরা মজার ড্রাগন বানাও",
+    "target": "character:dragon",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "মজার ড্রাগন বানাও বন্ধু",
+    "target": "character:dragon",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "I want a mango",
+    "target": "object:mango",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "please I want a mango",
+    "target": "object:mango",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "can we I want a mango",
+    "target": "object:mango",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "I want a mango with my friend",
+    "target": "object:mango",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "bring mangoes",
+    "target": "object:mango",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "please bring mangoes",
+    "target": "object:mango",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "can we bring mangoes",
+    "target": "object:mango",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "bring mangoes with my friend",
+    "target": "object:mango",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "some sweet mango fruit",
+    "target": "object:mango",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "please some sweet mango fruit",
+    "target": "object:mango",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "can we some sweet mango fruit",
+    "target": "object:mango",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "some sweet mango fruit with my friend",
+    "target": "object:mango",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "give me a ripe mango",
+    "target": "object:mango",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "please give me a ripe mango",
+    "target": "object:mango",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "can we give me a ripe mango",
+    "target": "object:mango",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "give me a ripe mango with my friend",
+    "target": "object:mango",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "আম খেতে চাই",
+    "target": "object:mango",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "চলো আম খেতে চাই",
+    "target": "object:mango",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "আমরা আম খেতে চাই",
+    "target": "object:mango",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "আম খেতে চাই বন্ধু",
+    "target": "object:mango",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "একটা পাকা আম দাও",
+    "target": "object:mango",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "চলো একটা পাকা আম দাও",
+    "target": "object:mango",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "আমরা একটা পাকা আম দাও",
+    "target": "object:mango",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "একটা পাকা আম দাও বন্ধু",
+    "target": "object:mango",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "মিষ্টি আম নিয়ে আসো",
+    "target": "object:mango",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "চলো মিষ্টি আম নিয়ে আসো",
+    "target": "object:mango",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "আমরা মিষ্টি আম নিয়ে আসো",
+    "target": "object:mango",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "মিষ্টি আম নিয়ে আসো বন্ধু",
+    "target": "object:mango",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "আম চাই",
+    "target": "object:mango",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "চলো আম চাই",
+    "target": "object:mango",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "আমরা আম চাই",
+    "target": "object:mango",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "আম চাই বন্ধু",
+    "target": "object:mango",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "I want rice",
+    "target": "object:rice",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "please I want rice",
+    "target": "object:rice",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "can we I want rice",
+    "target": "object:rice",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "I want rice with my friend",
+    "target": "object:rice",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "a bowl of rice please",
+    "target": "object:rice",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "please a bowl of rice please",
+    "target": "object:rice",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "can we a bowl of rice please",
+    "target": "object:rice",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "a bowl of rice please with my friend",
+    "target": "object:rice",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "bring some rice",
+    "target": "object:rice",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "please bring some rice",
+    "target": "object:rice",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "can we bring some rice",
+    "target": "object:rice",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "bring some rice with my friend",
+    "target": "object:rice",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "serve rice for lunch",
+    "target": "object:rice",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "please serve rice for lunch",
+    "target": "object:rice",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "can we serve rice for lunch",
+    "target": "object:rice",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "serve rice for lunch with my friend",
+    "target": "object:rice",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "ভাত দাও",
+    "target": "object:rice",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "চলো ভাত দাও",
+    "target": "object:rice",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "আমরা ভাত দাও",
+    "target": "object:rice",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "ভাত দাও বন্ধু",
+    "target": "object:rice",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "আমি ভাত খাব",
+    "target": "object:rice",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "চলো আমি ভাত খাব",
+    "target": "object:rice",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "আমরা আমি ভাত খাব",
+    "target": "object:rice",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "আমি ভাত খাব বন্ধু",
+    "target": "object:rice",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "এক বাটি ভাত চাই",
+    "target": "object:rice",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "চলো এক বাটি ভাত চাই",
+    "target": "object:rice",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "আমরা এক বাটি ভাত চাই",
+    "target": "object:rice",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "এক বাটি ভাত চাই বন্ধু",
+    "target": "object:rice",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "দুপুরে ভাত খাব",
+    "target": "object:rice",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "চলো দুপুরে ভাত খাব",
+    "target": "object:rice",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "আমরা দুপুরে ভাত খাব",
+    "target": "object:rice",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "দুপুরে ভাত খাব বন্ধু",
+    "target": "object:rice",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "I want fish",
+    "target": "object:fish",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "please I want fish",
+    "target": "object:fish",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "can we I want fish",
+    "target": "object:fish",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "I want fish with my friend",
+    "target": "object:fish",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "serve a fish",
+    "target": "object:fish",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "please serve a fish",
+    "target": "object:fish",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "can we serve a fish",
+    "target": "object:fish",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "serve a fish with my friend",
+    "target": "object:fish",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "some fish for lunch",
+    "target": "object:fish",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "please some fish for lunch",
+    "target": "object:fish",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "can we some fish for lunch",
+    "target": "object:fish",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "some fish for lunch with my friend",
+    "target": "object:fish",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "bring a little fish",
+    "target": "object:fish",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "please bring a little fish",
+    "target": "object:fish",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "can we bring a little fish",
+    "target": "object:fish",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "bring a little fish with my friend",
+    "target": "object:fish",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "মাছ খাব",
+    "target": "object:fish",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "চলো মাছ খাব",
+    "target": "object:fish",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "আমরা মাছ খাব",
+    "target": "object:fish",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "মাছ খাব বন্ধু",
+    "target": "object:fish",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "মাছ দাও",
+    "target": "object:fish",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "চলো মাছ দাও",
+    "target": "object:fish",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "আমরা মাছ দাও",
+    "target": "object:fish",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "মাছ দাও বন্ধু",
+    "target": "object:fish",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "একটা মাছ চাই",
+    "target": "object:fish",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "চলো একটা মাছ চাই",
+    "target": "object:fish",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "আমরা একটা মাছ চাই",
+    "target": "object:fish",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "একটা মাছ চাই বন্ধু",
+    "target": "object:fish",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "দুপুরে মাছ চাই",
+    "target": "object:fish",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "চলো দুপুরে মাছ চাই",
+    "target": "object:fish",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "আমরা দুপুরে মাছ চাই",
+    "target": "object:fish",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "দুপুরে মাছ চাই বন্ধু",
+    "target": "object:fish",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "hello there",
+    "target": "none",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "please hello there",
+    "target": "none",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "can we hello there",
+    "target": "none",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "hello there with my friend",
+    "target": "none",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "I feel happy",
+    "target": "none",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "please I feel happy",
+    "target": "none",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "can we I feel happy",
+    "target": "none",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "I feel happy with my friend",
+    "target": "none",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "I feel sad",
+    "target": "none",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "please I feel sad",
+    "target": "none",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "can we I feel sad",
+    "target": "none",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "I feel sad with my friend",
+    "target": "none",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "how are you",
+    "target": "none",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "please how are you",
+    "target": "none",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "can we how are you",
+    "target": "none",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "how are you with my friend",
+    "target": "none",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "what is your name",
+    "target": "none",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "please what is your name",
+    "target": "none",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "can we what is your name",
+    "target": "none",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "what is your name with my friend",
+    "target": "none",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "I like you",
+    "target": "none",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "please I like you",
+    "target": "none",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "can we I like you",
+    "target": "none",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "I like you with my friend",
+    "target": "none",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "I want something new",
+    "target": "none",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "please I want something new",
+    "target": "none",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "can we I want something new",
+    "target": "none",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "I want something new with my friend",
+    "target": "none",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "that is funny",
+    "target": "none",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "please that is funny",
+    "target": "none",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "can we that is funny",
+    "target": "none",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "that is funny with my friend",
+    "target": "none",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "I changed my mind",
+    "target": "none",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "please I changed my mind",
+    "target": "none",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "can we I changed my mind",
+    "target": "none",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "I changed my mind with my friend",
+    "target": "none",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "হ্যালো বন্ধু",
+    "target": "none",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "চলো হ্যালো বন্ধু",
+    "target": "none",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "আমরা হ্যালো বন্ধু",
+    "target": "none",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "হ্যালো বন্ধু বন্ধু",
+    "target": "none",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "আমার মন খারাপ",
+    "target": "none",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "চলো আমার মন খারাপ",
+    "target": "none",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "আমরা আমার মন খারাপ",
+    "target": "none",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "আমার মন খারাপ বন্ধু",
+    "target": "none",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "কেমন আছ",
+    "target": "none",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "চলো কেমন আছ",
+    "target": "none",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "আমরা কেমন আছ",
+    "target": "none",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "কেমন আছ বন্ধু",
+    "target": "none",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "তোমার নাম কী",
+    "target": "none",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "চলো তোমার নাম কী",
+    "target": "none",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "আমরা তোমার নাম কী",
+    "target": "none",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "তোমার নাম কী বন্ধু",
+    "target": "none",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "তোমাকে ভালো লাগে",
+    "target": "none",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "চলো তোমাকে ভালো লাগে",
+    "target": "none",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "আমরা তোমাকে ভালো লাগে",
+    "target": "none",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "তোমাকে ভালো লাগে বন্ধু",
+    "target": "none",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "নতুন কিছু চাই",
+    "target": "none",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "চলো নতুন কিছু চাই",
+    "target": "none",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "আমরা নতুন কিছু চাই",
+    "target": "none",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "নতুন কিছু চাই বন্ধু",
+    "target": "none",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "মজা লাগছে",
+    "target": "none",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "চলো মজা লাগছে",
+    "target": "none",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "আমরা মজা লাগছে",
+    "target": "none",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "মজা লাগছে বন্ধু",
+    "target": "none",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "এই তো",
+    "target": "none",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "চলো এই তো",
+    "target": "none",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "আমরা এই তো",
+    "target": "none",
+    "source": "authored-synthetic"
+  },
+  {
+    "text": "এই তো বন্ধু",
+    "target": "none",
+    "source": "authored-synthetic"
+  }
+]

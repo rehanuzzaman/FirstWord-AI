@@ -1,0 +1,7 @@
+
+# restaurant: voice-only turns
+PASS  ভাত দাও
+      → এখানে গরম ভাত! আর কিছু দরকার?  [groq]
+FAIL  আমি পিৎজা বানাব
+      → (none)
+      ✗ no reply

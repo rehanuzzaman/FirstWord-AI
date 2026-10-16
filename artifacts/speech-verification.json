@@ -1,0 +1,24 @@
+[
+  {
+    "language": "en",
+    "status": 200,
+    "seconds": 1.0,
+    "response": {
+      "text": "Let us open a restaurant. I want rice and fish.",
+      "provider": "faster-whisper",
+      "model": "tiny"
+    },
+    "source": "eSpeak synthetic audio, not a human or child recording"
+  },
+  {
+    "language": "bn",
+    "status": 200,
+    "seconds": 2.83,
+    "response": {
+      "text": "Jogore Soda Kuhli, Amima Soda Chai",
+      "provider": "faster-whisper",
+      "model": "tiny"
+    },
+    "source": "eSpeak synthetic audio, not a human or child recording"
+  }
+]

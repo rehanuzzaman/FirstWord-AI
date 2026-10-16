@@ -1,0 +1,30 @@
+[
+  {
+    "input": "silence",
+    "status": 200,
+    "result": {
+      "text": "",
+      "provider": "faster-whisper",
+      "model": "tiny"
+    }
+  },
+  {
+    "input": "synthetic-bn",
+    "status": 200,
+    "result": {
+      "text": "",
+      "provider": "faster-whisper",
+      "model": "tiny",
+      "warning": "Bengali script not recovered; use English mode for English speech or the text fallback."
+    }
+  },
+  {
+    "input": "synthetic-en",
+    "status": 200,
+    "result": {
+      "text": "Let us open a restaurant. I want rice and fish.",
+      "provider": "faster-whisper",
+      "model": "tiny"
+    }
+  }
+]

@@ -1,0 +1,7 @@
+
+Running 1 test using 1 worker
+
+silence reactions observed at ~8.8s, ~25.0s, ~25.9s
+  ✓  1 tests/browser/restaurant-silence.spec.ts:42:1 › silence triggers the 8s, 16s and 24s reactions and does not move the story (1.1m)
+
+  1 passed (1.1m)

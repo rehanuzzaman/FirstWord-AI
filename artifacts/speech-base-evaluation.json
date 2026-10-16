@@ -1,0 +1,16 @@
+[
+  {
+    "language": "bn",
+    "text": " To the rest of the kuli, amima to tai",
+    "seconds": 4.94,
+    "model": "base",
+    "source": "eSpeak synthetic audio"
+  },
+  {
+    "language": "en",
+    "text": " Let us open a restaurant. I want rice and fish.",
+    "seconds": 1.11,
+    "model": "base",
+    "source": "eSpeak synthetic audio"
+  }
+]

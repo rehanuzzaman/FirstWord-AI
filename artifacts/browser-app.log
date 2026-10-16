@@ -1,0 +1,226 @@
+
+Running 12 tests using 1 worker
+
+  ✘   1 tests/browser/app.spec.ts:7:1 › real WebGL renderer, actual mesh raycast petting and island movement (50.6s)
+  ✘   2 tests/browser/app.spec.ts:14:1 › voice or text commands create 3D restaurant, change roles, introduce dragon and continue story (50.7s)
+  ✘   3 tests/browser/app.spec.ts:20:1 › compound Bangla world and continuity survive reload; correction changes place (28.5s)
+  ✘   4 tests/browser/app.spec.ts:23:1 › map navigation starts actual scenarios and toy play is not fabricated speech (50.6s)
+  ✘   5 tests/browser/app.spec.ts:27:1 › guardian consent, revoke permission, persistence settings, isolation and actual deletion (50.9s)
+  ✘   6 tests/browser/app.spec.ts:31:1 › demo remains labelled and separate; six steps produce actual adaptive observations (50.8s)
+  ✓   7 tests/browser/app.spec.ts:34:1 › missing providers are labelled; fitted classifier and guided play still work (29.9s)
+  -   8 tests/browser/app.spec.ts:37:1 › local speech APIs process synthetic English audio and synthesize Bengali WAV
+  ✓   9 tests/browser/app.spec.ts:40:1 › silence leaves pet safe and malformed action requests rejected (30ms)
+  ✓  10 tests/browser/app.spec.ts:41:31 › 3D game responsive controls at 390px (18.2s)
+  ✓  11 tests/browser/app.spec.ts:41:31 › 3D game responsive controls at 1440px (16.1s)
+  -  12 tests/browser/app.spec.ts:42:1 › live local model makes a validated new named 3D prop, not a canned transcription
+
+
+  1) tests/browser/app.spec.ts:7:1 › real WebGL renderer, actual mesh raycast petting and island movement 
+
+    Test timeout of 45000ms exceeded.
+
+    Error: page.waitForResponse: Test timeout of 45000ms exceeded.
+
+      10 |  const petted=page.waitForResponse(r=>r.url().endsWith('/api/play')&&r.request().postDataJSON()?.action?.kind==='pet');await page.locator('canvas').click({position:{x:625,y:495}});expect((await petted).status()).toBe(200);await expect.poll(async()=>(await state(page)).pats).toBe(1);
+      11 |  expect((await state(page)).turns).toBe(0);await expect(page.locator('.discovery-counter')).toContainText('1');
+    > 12 |  await page.getByRole('button',{name:'Hide speech bubble'}).click();const moved=page.waitForResponse(r=>r.url().endsWith('/api/play')&&r.request().postDataJSON()?.action?.kind==='move');await page.locator('canvas').click({position:{x:1000,y:700}});expect((await moved).status()).toBe(200);expect((await state(page)).coordinates).toHaveLength(2);expect(errors).toEqual([]);
+         |                                                                                      ^
+      13 | });
+      14 | test('voice or text commands create 3D restaurant, change roles, introduce dragon and continue story',async({page})=>{
+      15 |  await ready(page);await send(page,'Let us open a restaurant');await expect(page.locator('.game-canvas')).toHaveAttribute('data-scene','restaurant');
+        at /home/user/firstword/tests/browser/app.spec.ts:12:86
+
+    Error: locator.click: Test timeout of 45000ms exceeded.
+    Call log:
+      - waiting for locator('canvas')
+        - locator resolved to <canvas width="1440" height="1000" data-engine="three.js r186"></canvas>
+      - attempting click action
+        2 × waiting for element to be visible, enabled and stable
+          - element is visible, enabled and stable
+          - scrolling into view if needed
+          - done scrolling
+          - <button class="primary-button situation-start">রেস্টুরেন্ট খেলো · শুধু কথা বলে</button> from <section class="play-dock" aria-label="Play controls">…</section> subtree intercepts pointer events
+        - retrying click action
+        - waiting 20ms
+        2 × waiting for element to be visible, enabled and stable
+          - element is visible, enabled and stable
+          - scrolling into view if needed
+          - done scrolling
+          - <button class="primary-button situation-start">রেস্টুরেন্ট খেলো · শুধু কথা বলে</button> from <section class="play-dock" aria-label="Play controls">…</section> subtree intercepts pointer events
+        - retrying click action
+          - waiting 100ms
+        - waiting for element to be visible, enabled and stable
+        - element is visible, enabled and stable
+        - scrolling into view if needed
+        - done scrolling
+        - <button class="primary-button situation-start">রেস্টুরেন্ট খেলো · শুধু কথা বলে</button> from <section class="play-dock" aria-label="Play controls">…</section> subtree intercepts pointer events
+      - retrying click action
+        - waiting 500ms
+        - waiting for element to be visible, enabled and stable
+        - element is visible, enabled and stable
+        - scrolling into view if needed
+
+
+      10 |  const petted=page.waitForResponse(r=>r.url().endsWith('/api/play')&&r.request().postDataJSON()?.action?.kind==='pet');await page.locator('canvas').click({position:{x:625,y:495}});expect((await petted).status()).toBe(200);await expect.poll(async()=>(await state(page)).pats).toBe(1);
+      11 |  expect((await state(page)).turns).toBe(0);await expect(page.locator('.discovery-counter')).toContainText('1');
+    > 12 |  await page.getByRole('button',{name:'Hide speech bubble'}).click();const moved=page.waitForResponse(r=>r.url().endsWith('/api/play')&&r.request().postDataJSON()?.action?.kind==='move');await page.locator('canvas').click({position:{x:1000,y:700}});expect((await moved).status()).toBe(200);expect((await state(page)).coordinates).toHaveLength(2);expect(errors).toEqual([]);
+         |                                                                                                                                                                                                                        ^
+      13 | });
+      14 | test('voice or text commands create 3D restaurant, change roles, introduce dragon and continue story',async({page})=>{
+      15 |  await ready(page);await send(page,'Let us open a restaurant');await expect(page.locator('.game-canvas')).toHaveAttribute('data-scene','restaurant');
+        at /home/user/firstword/tests/browser/app.spec.ts:12:216
+
+    attachment #1: screenshot (image/png) ──────────────────────────────────────────────────────────
+    test-results/app-real-WebGL-renderer-ac-07f6f-petting-and-island-movement/test-failed-1.png
+    ────────────────────────────────────────────────────────────────────────────────────────────────
+
+    Error Context: test-results/app-real-WebGL-renderer-ac-07f6f-petting-and-island-movement/error-context.md
+
+  2) tests/browser/app.spec.ts:14:1 › voice or text commands create 3D restaurant, change roles, introduce dragon and continue story 
+
+    Test timeout of 45000ms exceeded.
+
+    Error: locator.click: Test timeout of 45000ms exceeded.
+    Call log:
+      - waiting for getByRole('button', { name: 'Type your idea' })
+        - locator resolved to <button class="write-idea" aria-label="Type your idea">…</button>
+      - attempting click action
+        - waiting for element to be visible, enabled and stable
+
+
+      3 | export async function ready(page:Page){await page.goto('/');await expect(page.locator('.game-loading')).toHaveCount(0);await expect(page.locator('.game-canvas canvas')).toBeVisible();}
+      4 | async function state(page:Page){return JSON.parse(await page.getByTestId('world-state').textContent()||'{}');}
+    > 5 | export async function send(page:Page,text:string){if(!await page.getByRole('textbox',{name:'Text fallback'}).isVisible())await page.getByRole('button',{name:'Type your idea'}).click();await page.getByRole('textbox',{name:'Text fallback'}).fill(text);const response=page.waitForResponse(r=>r.url().endsWith('/api/turn')&&r.request().method()==='POST');await page.getByRole('button',{name:'Send text',exact:true}).click();expect((await response).status()).toBe(200);await expect(page.locator('.game-mic')).not.toHaveClass(/busy/);}
+        |                                                                                                                                                                                 ^
+      6 | export async function parent(page:Page){await page.getByRole('button',{name:'Parent area'}).click();await page.locator('#parent-answer').fill('12');await page.getByRole('button',{name:'প্রবেশ করুন'}).click();await expect(page.locator('.dashboard')).toBeVisible();}
+      7 | test('real WebGL renderer, actual mesh raycast petting and island movement',async({page})=>{
+      8 |  const errors:string[]=[];page.on('pageerror',e=>errors.push(e.message));await ready(page);
+        at send (/home/user/firstword/tests/browser/app.spec.ts:5:177)
+        at /home/user/firstword/tests/browser/app.spec.ts:16:134
+
+    attachment #1: screenshot (image/png) ──────────────────────────────────────────────────────────
+    test-results/app-voice-or-text-commands-2be11-e-dragon-and-continue-story/test-failed-1.png
+    ────────────────────────────────────────────────────────────────────────────────────────────────
+
+    Error Context: test-results/app-voice-or-text-commands-2be11-e-dragon-and-continue-story/error-context.md
+
+  3) tests/browser/app.spec.ts:20:1 › compound Bangla world and continuity survive reload; correction changes place 
+
+    Error: expect(locator).toHaveAttribute(expected) failed
+
+    Locator:  locator('.game-canvas')
+    Expected: "castle"
+    Received: "meadow"
+    Timeout:  5000ms
+
+    Call log:
+      - Expect "toHaveAttribute" locator('.game-canvas') with timeout 5000ms
+      - waiting for locator('.game-canvas')
+        4 × locator resolved to <div data-role="king" class="game-canvas" data-scene="meadow" aria-label="3D বন্ধুর বাগান">…</div>
+          - unexpected value "meadow"
+
+
+      19 | });
+      20 | test('compound Bangla world and continuity survive reload; correction changes place',async({page})=>{
+    > 21 |  await ready(page);await send(page,'বেগুনি প্রাসাদ বানাও, ড্রাগন আনো, আমি রাজা হব');await expect(page.locator('.game-canvas')).toHaveAttribute('data-scene','castle');expect((await state(page)).characters).toContain('dragon');await page.reload();await expect(page.locator('.game-canvas')).toHaveAttribute('data-role','king');await send(page,'No, I meant the moon');await expect(page.locator('.game-canvas')).toHaveAttribute('data-scene','moon');expect((await state(page)).characters).toContain('dragon');
+         |                                                                                                                                ^
+      22 | });
+      23 | test('map navigation starts actual scenarios and toy play is not fabricated speech',async({page,context})=>{
+      24 |  await ready(page);await page.getByRole('button',{name:'Adventure map'}).click();await expect(page.locator('.map-card')).toHaveCount(6);await page.locator('.map-card').first().click();await expect(page.locator('.game-canvas')).toHaveAttribute('data-scene','help');await send(page,'build a bridge');await expect(page.locator('.mithu-bubble')).toContainText('উপায় পেলাম');
+        at /home/user/firstword/tests/browser/app.spec.ts:21:128
+
+    attachment #1: screenshot (image/png) ──────────────────────────────────────────────────────────
+    test-results/app-compound-Bangla-world--395bf-ad-correction-changes-place/test-failed-1.png
+    ────────────────────────────────────────────────────────────────────────────────────────────────
+
+    Error Context: test-results/app-compound-Bangla-world--395bf-ad-correction-changes-place/error-context.md
+
+  4) tests/browser/app.spec.ts:23:1 › map navigation starts actual scenarios and toy play is not fabricated speech 
+
+    Test timeout of 45000ms exceeded.
+
+    Error: locator.click: Test timeout of 45000ms exceeded.
+    Call log:
+      - waiting for getByRole('button', { name: 'Play with ball' })
+        - locator resolved to <button class="toy-slot" aria-label="Play with ball">…</button>
+      - attempting click action
+        - waiting for element to be visible, enabled and stable
+
+
+      23 | test('map navigation starts actual scenarios and toy play is not fabricated speech',async({page,context})=>{
+      24 |  await ready(page);await page.getByRole('button',{name:'Adventure map'}).click();await expect(page.locator('.map-card')).toHaveCount(6);await page.locator('.map-card').first().click();await expect(page.locator('.game-canvas')).toHaveAttribute('data-scene','help');await send(page,'build a bridge');await expect(page.locator('.mithu-bubble')).toContainText('উপায় পেলাম');
+    > 25 |  await page.getByRole('button',{name:'Play with ball'}).click();await expect.poll(async()=>(await state(page)).objects.includes('ball')).toBe(true);await page.getByRole('button',{name:'Play with ball'}).click();await expect(page.locator('.mithu-bubble')).toContainText('বলটা');const p=(await(await context.request.get('/api/profile')).json()).profile;expect(p.world.events).toContain('ball_play');expect(p.history).toHaveLength(1);
+         |                                                                                                                                                                                                            ^
+      26 | });
+      27 | test('guardian consent, revoke permission, persistence settings, isolation and actual deletion',async({page,context,browser})=>{
+      28 |  await ready(page);await page.getByRole('button',{name:'Start microphone',exact:true}).click();await page.locator('.consent-check input').check();await page.getByRole('button',{name:'অনুমতি দিন'}).click();await expect(page.getByRole('dialog')).toHaveCount(0);await send(page,'I want rice and fish');await parent(page);await expect(page.getByRole('checkbox',{name:'Storage consent'})).toBeChecked();await page.getByRole('checkbox',{name:'Microphone permission'}).uncheck();await expect.poll(async()=>(await(await context.request.get('/api/profile')).json()).profile.microphone).toBe(false);
+        at /home/user/firstword/tests/browser/app.spec.ts:25:204
+
+    attachment #1: screenshot (image/png) ──────────────────────────────────────────────────────────
+    test-results/app-map-navigation-starts--ebe60-ay-is-not-fabricated-speech/test-failed-1.png
+    ────────────────────────────────────────────────────────────────────────────────────────────────
+
+    Error Context: test-results/app-map-navigation-starts--ebe60-ay-is-not-fabricated-speech/error-context.md
+
+  5) tests/browser/app.spec.ts:27:1 › guardian consent, revoke permission, persistence settings, isolation and actual deletion 
+
+    Test timeout of 45000ms exceeded.
+
+    Error: expect(locator).not.toHaveClass(expected) failed
+
+    Locator: locator('.game-mic')
+    Expected pattern: not /busy/
+    Error: Test timeout of 45000ms exceeded.
+
+    Call log:
+      - Expect "not toHaveClass" locator('.game-mic') with timeout 5000ms
+      - waiting for locator('.game-mic')
+      - Test timeout of 45000ms exceeded.
+
+
+      3 | export async function ready(page:Page){await page.goto('/');await expect(page.locator('.game-loading')).toHaveCount(0);await expect(page.locator('.game-canvas canvas')).toBeVisible();}
+      4 | async function state(page:Page){return JSON.parse(await page.getByTestId('world-state').textContent()||'{}');}
+    > 5 | export async function send(page:Page,text:string){if(!await page.getByRole('textbox',{name:'Text fallback'}).isVisible())await page.getByRole('button',{name:'Type your idea'}).click();await page.getByRole('textbox',{name:'Text fallback'}).fill(text);const response=page.waitForResponse(r=>r.url().endsWith('/api/turn')&&r.request().method()==='POST');await page.getByRole('button',{name:'Send text',exact:true}).click();expect((await response).status()).toBe(200);await expect(page.locator('.game-mic')).not.toHaveClass(/busy/);}
+        |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             ^
+      6 | export async function parent(page:Page){await page.getByRole('button',{name:'Parent area'}).click();await page.locator('#parent-answer').fill('12');await page.getByRole('button',{name:'প্রবেশ করুন'}).click();await expect(page.locator('.dashboard')).toBeVisible();}
+      7 | test('real WebGL renderer, actual mesh raycast petting and island movement',async({page})=>{
+      8 |  const errors:string[]=[];page.on('pageerror',e=>errors.push(e.message));await ready(page);
+        at send (/home/user/firstword/tests/browser/app.spec.ts:5:509)
+        at /home/user/firstword/tests/browser/app.spec.ts:28:260
+
+    Error Context: test-results/app-guardian-consent-revok-031e6-olation-and-actual-deletion/error-context.md
+
+  6) tests/browser/app.spec.ts:31:1 › demo remains labelled and separate; six steps produce actual adaptive observations 
+
+    Test timeout of 45000ms exceeded.
+
+    Error: locator.click: Test timeout of 45000ms exceeded.
+    Call log:
+      - waiting for locator('.game-demo-strip button').first()
+        - locator resolved to <button>…</button>
+
+
+      30 | });
+      31 | test('demo remains labelled and separate; six steps produce actual adaptive observations',async({page,context})=>{
+    > 32 |  await ready(page);await page.getByRole('button',{name:'Game settings'}).click();await page.getByRole('button',{name:/স্পষ্টভাবে চিহ্নিত টেক্সট ডেমো/}).click();await expect(page.locator('.game-demo-strip')).toContainText('TEXT, NOT SPEECH');for(let i=0;i<6;i++){await page.locator('.game-demo-strip button').first().click();await expect(page.locator('.game-mic')).not.toHaveClass(/busy/);}await expect(page.locator('.game-demo-strip')).toContainText('অগ্রগতি দেখি');const d=await(await context.request.get('/api/profile?demo=true')).json();expect(d.profile.history).toHaveLength(6);expect(d.recommendation.kind).toBe('sentence-support');expect((await(await context.request.get('/api/profile')).json()).profile.history).toHaveLength(0);await page.getByRole('button',{name:'Reset demo'}).click();await expect(page.locator('.game-demo-strip')).toContainText('ধাপ 1');
+         |                                                                                                                                                                                                                                                                                                                             ^
+      33 | });
+      34 | test('missing providers are labelled; fitted classifier and guided play still work',async({page,context})=>{
+      35 |  await page.route('**/api/status',r=>r.fulfill({json:{ai:false,localModel:false,trainedClassifier:true,stt:false,tts:false}}));await ready(page);await expect(page.locator('.central-mic')).toContainText('ভয়েস সেটআপ নেই');await send(page,'a place where guests can eat their dinner');await expect(page.locator('.game-canvas')).toHaveAttribute('data-scene','restaurant');const p=(await(await context.request.get('/api/profile')).json()).profile;expect(p.history.at(-1).mode).toBe('trained-classifier');
+        at /home/user/firstword/tests/browser/app.spec.ts:32:317
+
+    attachment #1: screenshot (image/png) ──────────────────────────────────────────────────────────
+    test-results/app-demo-remains-labelled--6bbf8-ctual-adaptive-observations/test-failed-1.png
+    ────────────────────────────────────────────────────────────────────────────────────────────────
+
+    Error Context: test-results/app-demo-remains-labelled--6bbf8-ctual-adaptive-observations/error-context.md
+
+  6 failed
+    tests/browser/app.spec.ts:7:1 › real WebGL renderer, actual mesh raycast petting and island movement 
+    tests/browser/app.spec.ts:14:1 › voice or text commands create 3D restaurant, change roles, introduce dragon and continue story 
+    tests/browser/app.spec.ts:20:1 › compound Bangla world and continuity survive reload; correction changes place 
+    tests/browser/app.spec.ts:23:1 › map navigation starts actual scenarios and toy play is not fabricated speech 
+    tests/browser/app.spec.ts:27:1 › guardian consent, revoke permission, persistence settings, isolation and actual deletion 
+    tests/browser/app.spec.ts:31:1 › demo remains labelled and separate; six steps produce actual adaptive observations 
+  2 skipped
+  4 passed (5.9m)

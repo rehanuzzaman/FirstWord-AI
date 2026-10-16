@@ -1,0 +1,10 @@
+
+# restaurant: voice-only turns
+FAIL  ভাত দাও
+      → (none)
+      ✗ no reply
+PASS  আমি পিৎজা বানাব
+      → চমৎকার! পিৎজা বানাতে কী যোগ করবে, চিজ নাকি সবজি?  [groq]
+FAIL  মাছ
+      → (none)
+      ✗ no reply

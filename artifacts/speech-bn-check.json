@@ -1,0 +1,69 @@
+{
+  "time": "2026-10-16T10:48:24.130Z",
+  "model": "whisper-large-v3 (Groq)",
+  "voice": "bn-BD-NabanitaNeural (Edge TTS, synthetic, not a child)",
+  "averageWordRecall": 52,
+  "exactMatches": 2,
+  "results": [
+    {
+      "expected": "ভাত দাও",
+      "transcript": "ভাদ দাও",
+      "recall": 50,
+      "exact": false
+    },
+    {
+      "expected": "আমি পিৎজা বানাব",
+      "transcript": "আমি পিজ্য বানাব।",
+      "recall": 67,
+      "exact": false
+    },
+    {
+      "expected": "একটা আম দাও",
+      "transcript": "এক্তান্দাও",
+      "recall": 0,
+      "exact": false
+    },
+    {
+      "expected": "পানি দাও",
+      "transcript": "পানি দাও",
+      "recall": 100,
+      "exact": true
+    },
+    {
+      "expected": "মাছ ভাজবো",
+      "transcript": "মাছ ভাজ্বো",
+      "recall": 50,
+      "exact": false
+    },
+    {
+      "expected": "কেক দাও",
+      "transcript": "কেক দাও",
+      "recall": 100,
+      "exact": true
+    },
+    {
+      "expected": "চা দাও",
+      "transcript": "চাদাও",
+      "recall": 0,
+      "exact": false
+    },
+    {
+      "expected": "আমি শেফ হব",
+      "transcript": "আমিশেফ হব",
+      "recall": 33,
+      "exact": false
+    },
+    {
+      "expected": "মিষ্টি দেব",
+      "transcript": "মিষ্টি দেবো",
+      "recall": 50,
+      "exact": false
+    },
+    {
+      "expected": "আমার মন খারাপ",
+      "transcript": "আমার মন খারাব।",
+      "recall": 67,
+      "exact": false
+    }
+  ]
+}

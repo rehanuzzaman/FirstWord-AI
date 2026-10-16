@@ -1,0 +1,118 @@
+{
+  "model": "character TF-IDF + multinomial logistic regression",
+  "training_rows": 668,
+  "classes": 16,
+  "held_out_rows": 18,
+  "accuracy": 0.9444444444444444,
+  "scope": "Small authored benchmark only. Not general language understanding or child-speech validation.",
+  "examples": [
+    {
+      "input": "a place where guests can eat their dinner",
+      "expected": "scene:restaurant",
+      "predicted": "scene:restaurant",
+      "probability": 0.7548
+    },
+    {
+      "input": "সবাইকে রান্না করে খেতে দেব",
+      "expected": "scene:restaurant",
+      "predicted": "scene:restaurant",
+      "probability": 0.5505
+    },
+    {
+      "input": "I would like to buy things from our store",
+      "expected": "scene:shop",
+      "predicted": "scene:shop",
+      "probability": 0.7851
+    },
+    {
+      "input": "make somewhere for the queen to live",
+      "expected": "scene:castle",
+      "predicted": "scene:castle",
+      "probability": 0.4481
+    },
+    {
+      "input": "let us travel to another planet",
+      "expected": "scene:moon",
+      "predicted": "scene:moon",
+      "probability": 0.7687
+    },
+    {
+      "input": "help him reach the opposite river bank",
+      "expected": "scene:help",
+      "predicted": "scene:help",
+      "probability": 0.6216
+    },
+    {
+      "input": "it is time to perform for everyone",
+      "expected": "scene:stage",
+      "predicted": "scene:stage",
+      "probability": 0.6159
+    },
+    {
+      "input": "let me be the person selling things",
+      "expected": "role:shopkeeper",
+      "predicted": "role:shopkeeper",
+      "probability": 0.3657
+    },
+    {
+      "input": "I am buying dinner today",
+      "expected": "role:customer",
+      "predicted": "scene:restaurant",
+      "probability": 0.4185
+    },
+    {
+      "input": "I should wear the royal crown",
+      "expected": "role:king",
+      "predicted": "role:king",
+      "probability": 0.4745
+    },
+    {
+      "input": "connect both sides with wooden planks",
+      "expected": "object:bridge",
+      "predicted": "object:bridge",
+      "probability": 0.4919
+    },
+    {
+      "input": "we can row across",
+      "expected": "object:boat",
+      "predicted": "object:boat",
+      "probability": 0.5241
+    },
+    {
+      "input": "আমাদের গল্পে একটা ভালো ড্রাগন আসুক",
+      "expected": "character:dragon",
+      "predicted": "character:dragon",
+      "probability": 0.7612
+    },
+    {
+      "input": "একটা মিষ্টি পাকা আম চাই",
+      "expected": "object:mango",
+      "predicted": "object:mango",
+      "probability": 0.9482
+    },
+    {
+      "input": "may I have a bowl of rice",
+      "expected": "object:rice",
+      "predicted": "object:rice",
+      "probability": 0.7437
+    },
+    {
+      "input": "some fish please",
+      "expected": "object:fish",
+      "predicted": "object:fish",
+      "probability": 0.8891
+    },
+    {
+      "input": "তুমি কেমন আছ বন্ধু",
+      "expected": "none",
+      "predicted": "none",
+      "probability": 0.8058
+    },
+    {
+      "input": "I feel a bit sad today",
+      "expected": "none",
+      "predicted": "none",
+      "probability": 0.6797
+    }
+  ]
+}

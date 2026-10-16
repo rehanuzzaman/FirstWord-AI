@@ -1,0 +1,20 @@
+src/App.tsx 387ms
+src/components/Dashboard.tsx 90ms
+src/components/Pet.tsx 52ms
+src/components/World.tsx 95ms
+src/main.tsx 15ms
+src/speech.ts 38ms
+src/styles.css 361ms
+shared/engine.ts 142ms
+server/index.ts 71ms
+server/providers.ts 30ms
+tests/browser/app.spec.ts 53ms
+tests/browser/microphone.spec.ts 16ms
+tests/engine.test.ts 26ms
+tests/providers.test.ts 10ms
+playwright.config.ts 3ms
+vite.config.ts 2ms
+vitest.config.ts 2ms
+package-lock.json 109ms (unchanged)
+package.json 2ms (unchanged)
+tsconfig.json 3ms

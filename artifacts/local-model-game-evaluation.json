@@ -1,0 +1,550 @@
+[
+  {
+    "text": "open a restaurant",
+    "seconds": 0.05,
+    "response": {
+      "profile": {
+        "id": "local",
+        "name": "ছোট্ট বন্ধু",
+        "consent": false,
+        "microphone": false,
+        "history": [
+          {
+            "id": "41cb68ca-acaf-4d3a-a3c2-8f96a013aaae",
+            "child": "open a restaurant",
+            "pet": "মজার রেস্তোরাঁ তৈরি! এবার কী হবে, বলো তো?",
+            "time": "2026-10-14T16:30:57.063Z",
+            "source": "text",
+            "mode": "rules",
+            "actions": [
+              {
+                "type": "scene",
+                "value": "restaurant"
+              }
+            ],
+            "scene": "restaurant"
+          }
+        ],
+        "completed": [],
+        "words": {},
+        "skills": {
+          "conversation": 1,
+          "sentences": 1
+        },
+        "world": {
+          "scene": "restaurant",
+          "colored": false,
+          "color": "purple",
+          "objects": [],
+          "characters": [],
+          "role": "friend",
+          "petRole": "friend",
+          "position": "center",
+          "activity": "serve",
+          "events": [],
+          "turn": 1
+        },
+        "created": "2026-10-14T16:30:57.014Z",
+        "previous": {
+          "scene": "meadow",
+          "colored": false,
+          "color": "purple",
+          "objects": [],
+          "characters": [],
+          "role": "friend",
+          "petRole": "friend",
+          "position": "center",
+          "activity": "play",
+          "events": [],
+          "turn": 0
+        },
+        "play": {
+          "pats": 0,
+          "interactions": 0,
+          "discoveries": [
+            "voice-story"
+          ]
+        }
+      },
+      "recommendation": {
+        "scene": "help",
+        "reason": "খেলতে খেলতে নিজের ভাবনা বোঝানোর সুযোগ।",
+        "prompt": "মিঠু নদীর ওপারে ফুল দেখতে চায়। আমরা কী করতে পারি?",
+        "kind": "exploration"
+      },
+      "reply": "মজার রেস্তোরাঁ তৈরি! এবার কী হবে, বলো তো?",
+      "mode": "rules",
+      "providerNote": "Offline rules · not generative AI",
+      "actions": [
+        {
+          "type": "scene",
+          "value": "restaurant"
+        }
+      ]
+    }
+  },
+  {
+    "text": "Make a purple castle with a friendly dragon, and I want to be king",
+    "seconds": 0.0,
+    "response": {
+      "profile": {
+        "id": "local",
+        "name": "ছোট্ট বন্ধু",
+        "consent": false,
+        "microphone": false,
+        "history": [
+          {
+            "id": "41cb68ca-acaf-4d3a-a3c2-8f96a013aaae",
+            "child": "open a restaurant",
+            "pet": "মজার রেস্তোরাঁ তৈরি! এবার কী হবে, বলো তো?",
+            "time": "2026-10-14T16:30:57.063Z",
+            "source": "text",
+            "mode": "rules",
+            "actions": [
+              {
+                "type": "scene",
+                "value": "restaurant"
+              }
+            ],
+            "scene": "restaurant"
+          },
+          {
+            "id": "fa8d40b8-4fc4-4703-8de4-ac6618ecb271",
+            "child": "Make a purple castle with a friendly dragon, and I want to be king",
+            "pet": "কল্পনার রাজ্য তৈরি! তুমি এখন রাজা, আমি বন্ধু। বন্ধু ড্রাগন আমাদের সঙ্গেই আছে। তোমার পছন্দের রং দিলাম। এবার কী হবে, বলো তো?",
+            "time": "2026-10-14T16:30:57.068Z",
+            "source": "text",
+            "mode": "rules",
+            "actions": [
+              {
+                "type": "scene",
+                "value": "castle"
+              },
+              {
+                "type": "color",
+                "value": "purple"
+              },
+              {
+                "type": "character",
+                "value": "dragon"
+              },
+              {
+                "type": "role",
+                "value": "king"
+              }
+            ],
+            "scene": "castle"
+          }
+        ],
+        "completed": [
+          {
+            "scene": "restaurant",
+            "time": "2026-10-14T16:30:57.068Z"
+          }
+        ],
+        "words": {},
+        "skills": {
+          "conversation": 2,
+          "sentences": 2,
+          "needs": 1,
+          "storytelling": 1
+        },
+        "world": {
+          "scene": "castle",
+          "colored": true,
+          "color": "purple",
+          "objects": [],
+          "characters": [
+            "dragon"
+          ],
+          "role": "king",
+          "petRole": "friend",
+          "position": "center",
+          "activity": "story",
+          "events": [],
+          "turn": 2
+        },
+        "created": "2026-10-14T16:30:57.014Z",
+        "previous": {
+          "scene": "restaurant",
+          "colored": false,
+          "color": "purple",
+          "objects": [],
+          "characters": [],
+          "role": "friend",
+          "petRole": "friend",
+          "position": "center",
+          "activity": "serve",
+          "events": [],
+          "turn": 1
+        },
+        "play": {
+          "pats": 0,
+          "interactions": 0,
+          "discoveries": [
+            "voice-story",
+            "dragon"
+          ]
+        }
+      },
+      "recommendation": {
+        "scene": "help",
+        "reason": "খেলতে খেলতে নিজের ভাবনা বোঝানোর সুযোগ।",
+        "prompt": "মিঠু নদীর ওপারে ফুল দেখতে চায়। আমরা কী করতে পারি?",
+        "kind": "exploration"
+      },
+      "reply": "কল্পনার রাজ্য তৈরি! তুমি এখন রাজা, আমি বন্ধু। বন্ধু ড্রাগন আমাদের সঙ্গেই আছে। তোমার পছন্দের রং দিলাম। এবার কী হবে, বলো তো?",
+      "mode": "rules",
+      "providerNote": "Offline rules · not generative AI",
+      "actions": [
+        {
+          "type": "scene",
+          "value": "castle"
+        },
+        {
+          "type": "color",
+          "value": "purple"
+        },
+        {
+          "type": "character",
+          "value": "dragon"
+        },
+        {
+          "type": "role",
+          "value": "king"
+        }
+      ]
+    }
+  },
+  {
+    "text": "I want a flying ice cream bus",
+    "seconds": 6.8,
+    "response": {
+      "profile": {
+        "id": "local",
+        "name": "ছোট্ট বন্ধু",
+        "consent": false,
+        "microphone": false,
+        "history": [
+          {
+            "id": "41cb68ca-acaf-4d3a-a3c2-8f96a013aaae",
+            "child": "open a restaurant",
+            "pet": "মজার রেস্তোরাঁ তৈরি! এবার কী হবে, বলো তো?",
+            "time": "2026-10-14T16:30:57.063Z",
+            "source": "text",
+            "mode": "rules",
+            "actions": [
+              {
+                "type": "scene",
+                "value": "restaurant"
+              }
+            ],
+            "scene": "restaurant"
+          },
+          {
+            "id": "fa8d40b8-4fc4-4703-8de4-ac6618ecb271",
+            "child": "Make a purple castle with a friendly dragon, and I want to be king",
+            "pet": "কল্পনার রাজ্য তৈরি! তুমি এখন রাজা, আমি বন্ধু। বন্ধু ড্রাগন আমাদের সঙ্গেই আছে। তোমার পছন্দের রং দিলাম। এবার কী হবে, বলো তো?",
+            "time": "2026-10-14T16:30:57.068Z",
+            "source": "text",
+            "mode": "rules",
+            "actions": [
+              {
+                "type": "scene",
+                "value": "castle"
+              },
+              {
+                "type": "color",
+                "value": "purple"
+              },
+              {
+                "type": "character",
+                "value": "dragon"
+              },
+              {
+                "type": "role",
+                "value": "king"
+              }
+            ],
+            "scene": "castle"
+          },
+          {
+            "id": "ff5e2f06-c8f9-417e-9fff-3e7f6a0f8e6c",
+            "child": "I want a flying ice cream bus",
+            "pet": "“I want a flying ice cream bus”—বাহ, এটা দিয়েই গল্প খেলি! এই জাদুর খেলনাটাকে আমাদের কল্পনার জিনিস ভাবি। এটা কী করতে পারে?",
+            "time": "2026-10-14T16:31:03.864Z",
+            "source": "text",
+            "mode": "local-model",
+            "actions": [
+              {
+                "type": "imagine",
+                "value": {
+                  "name": "ice cream bus",
+                  "shape": "vehicle",
+                  "color": "pink"
+                }
+              }
+            ],
+            "scene": "castle"
+          }
+        ],
+        "completed": [
+          {
+            "scene": "restaurant",
+            "time": "2026-10-14T16:30:57.068Z"
+          }
+        ],
+        "words": {},
+        "skills": {
+          "conversation": 3,
+          "sentences": 3,
+          "needs": 2,
+          "storytelling": 1
+        },
+        "world": {
+          "scene": "castle",
+          "colored": true,
+          "color": "purple",
+          "objects": [],
+          "characters": [
+            "dragon"
+          ],
+          "role": "king",
+          "petRole": "friend",
+          "position": "center",
+          "activity": "story",
+          "events": [],
+          "turn": 3,
+          "imaginations": [
+            {
+              "name": "ice cream bus",
+              "shape": "vehicle",
+              "color": "pink"
+            }
+          ]
+        },
+        "created": "2026-10-14T16:30:57.014Z",
+        "previous": {
+          "scene": "castle",
+          "colored": true,
+          "color": "purple",
+          "objects": [],
+          "characters": [
+            "dragon"
+          ],
+          "role": "king",
+          "petRole": "friend",
+          "position": "center",
+          "activity": "story",
+          "events": [],
+          "turn": 2
+        },
+        "play": {
+          "pats": 0,
+          "interactions": 0,
+          "discoveries": [
+            "voice-story",
+            "dragon",
+            "inventor"
+          ]
+        }
+      },
+      "recommendation": {
+        "scene": "stage",
+        "reason": "কল্পনার খেলায় আগ্রহ দেখা গেছে। এবার গল্প বলার পালা।",
+        "prompt": "তোমার গল্পে এরপর কী হবে? চাইলে একটু বলো।",
+        "kind": "story-interest"
+      },
+      "reply": "“I want a flying ice cream bus”—বাহ, এটা দিয়েই গল্প খেলি! এই জাদুর খেলনাটাকে আমাদের কল্পনার জিনিস ভাবি। এটা কী করতে পারে?",
+      "mode": "local-model",
+      "providerNote": "Live local Qwen intent inference · guided Bangla reply",
+      "actions": [
+        {
+          "type": "imagine",
+          "value": {
+            "name": "ice cream bus",
+            "shape": "vehicle",
+            "color": "pink"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "text": "আমি মেঘের উপর একটা চকলেটের শহর বানাবো",
+    "seconds": 1.54,
+    "response": {
+      "profile": {
+        "id": "local",
+        "name": "ছোট্ট বন্ধু",
+        "consent": false,
+        "microphone": false,
+        "history": [
+          {
+            "id": "41cb68ca-acaf-4d3a-a3c2-8f96a013aaae",
+            "child": "open a restaurant",
+            "pet": "মজার রেস্তোরাঁ তৈরি! এবার কী হবে, বলো তো?",
+            "time": "2026-10-14T16:30:57.063Z",
+            "source": "text",
+            "mode": "rules",
+            "actions": [
+              {
+                "type": "scene",
+                "value": "restaurant"
+              }
+            ],
+            "scene": "restaurant"
+          },
+          {
+            "id": "fa8d40b8-4fc4-4703-8de4-ac6618ecb271",
+            "child": "Make a purple castle with a friendly dragon, and I want to be king",
+            "pet": "কল্পনার রাজ্য তৈরি! তুমি এখন রাজা, আমি বন্ধু। বন্ধু ড্রাগন আমাদের সঙ্গেই আছে। তোমার পছন্দের রং দিলাম। এবার কী হবে, বলো তো?",
+            "time": "2026-10-14T16:30:57.068Z",
+            "source": "text",
+            "mode": "rules",
+            "actions": [
+              {
+                "type": "scene",
+                "value": "castle"
+              },
+              {
+                "type": "color",
+                "value": "purple"
+              },
+              {
+                "type": "character",
+                "value": "dragon"
+              },
+              {
+                "type": "role",
+                "value": "king"
+              }
+            ],
+            "scene": "castle"
+          },
+          {
+            "id": "ff5e2f06-c8f9-417e-9fff-3e7f6a0f8e6c",
+            "child": "I want a flying ice cream bus",
+            "pet": "“I want a flying ice cream bus”—বাহ, এটা দিয়েই গল্প খেলি! এই জাদুর খেলনাটাকে আমাদের কল্পনার জিনিস ভাবি। এটা কী করতে পারে?",
+            "time": "2026-10-14T16:31:03.864Z",
+            "source": "text",
+            "mode": "local-model",
+            "actions": [
+              {
+                "type": "imagine",
+                "value": {
+                  "name": "ice cream bus",
+                  "shape": "vehicle",
+                  "color": "pink"
+                }
+              }
+            ],
+            "scene": "castle"
+          },
+          {
+            "id": "eae85f0d-0e00-4b61-8cca-6c8df100a7d7",
+            "child": "আমি মেঘের উপর একটা চকলেটের শহর বানাবো",
+            "pet": "চাঁদের দেশে তৈরি! এবার কী হবে, বলো তো?",
+            "time": "2026-10-14T16:31:05.409Z",
+            "source": "text",
+            "mode": "local-model",
+            "actions": [
+              {
+                "type": "scene",
+                "value": "moon"
+              }
+            ],
+            "scene": "moon"
+          }
+        ],
+        "completed": [
+          {
+            "scene": "restaurant",
+            "time": "2026-10-14T16:30:57.068Z"
+          },
+          {
+            "scene": "castle",
+            "time": "2026-10-14T16:31:05.409Z"
+          }
+        ],
+        "words": {},
+        "skills": {
+          "conversation": 4,
+          "sentences": 4,
+          "needs": 2,
+          "storytelling": 1
+        },
+        "world": {
+          "scene": "moon",
+          "colored": true,
+          "color": "purple",
+          "objects": [],
+          "characters": [
+            "dragon"
+          ],
+          "role": "king",
+          "petRole": "friend",
+          "position": "center",
+          "activity": "story",
+          "events": [],
+          "turn": 4,
+          "imaginations": [
+            {
+              "name": "ice cream bus",
+              "shape": "vehicle",
+              "color": "pink"
+            }
+          ]
+        },
+        "created": "2026-10-14T16:30:57.014Z",
+        "previous": {
+          "scene": "castle",
+          "colored": true,
+          "color": "purple",
+          "objects": [],
+          "characters": [
+            "dragon"
+          ],
+          "role": "king",
+          "petRole": "friend",
+          "position": "center",
+          "activity": "story",
+          "events": [],
+          "turn": 3,
+          "imaginations": [
+            {
+              "name": "ice cream bus",
+              "shape": "vehicle",
+              "color": "pink"
+            }
+          ]
+        },
+        "play": {
+          "pats": 0,
+          "interactions": 0,
+          "discoveries": [
+            "voice-story",
+            "dragon",
+            "inventor",
+            "moon"
+          ]
+        }
+      },
+      "recommendation": {
+        "scene": "stage",
+        "reason": "কল্পনার খেলায় আগ্রহ দেখা গেছে। এবার গল্প বলার পালা।",
+        "prompt": "তোমার গল্পে এরপর কী হবে? চাইলে একটু বলো।",
+        "kind": "story-interest"
+      },
+      "reply": "চাঁদের দেশে তৈরি! এবার কী হবে, বলো তো?",
+      "mode": "local-model",
+      "providerNote": "Live local Qwen intent inference · guided Bangla reply",
+      "actions": [
+        {
+          "type": "scene",
+          "value": "moon"
+        }
+      ]
+    }
+  }
+]

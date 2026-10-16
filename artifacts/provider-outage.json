@@ -1,0 +1,9 @@
+{
+  "test": "real stopped Whisper service",
+  "audio_status": 503,
+  "audio_response": {
+    "error": "Local Whisper is unavailable. Use the labelled text input."
+  },
+  "text_still_works": true,
+  "text_mode": "rules"
+}
